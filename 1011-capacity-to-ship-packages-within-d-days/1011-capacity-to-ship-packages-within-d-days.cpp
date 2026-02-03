@@ -7,9 +7,10 @@ public:
         for (int i = 0; i < weight.size(); i++) {
             if (load + weight[i] > capacity) {
                 days++;
-                load = 0;
+                load = weight[i];
+            } else {
+                load += weight[i];
             }
-            load += weight[i];
         }
         return days;
     }
