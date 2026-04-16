@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,8 +79,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 <!---LeetCode Topics End-->
