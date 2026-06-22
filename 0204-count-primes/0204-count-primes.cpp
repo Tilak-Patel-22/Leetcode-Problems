@@ -4,8 +4,6 @@ public:
         int count=0;
         if(n<=0) return 0;
         vector<int> nums(n+1, 1);
-        nums[0] = 0;
-        nums[1] = 0;
         for(int i=2; i*i<n; i++){
             if(nums[i] == 1){
                 for(int j=i*i; j<n; j+=i){
@@ -13,7 +11,7 @@ public:
                 }
             }
         }
-        for(int i=0; i<n; i++){
+        for(int i=2; i<n; i++){
             if(nums[i] == 1){
                 count++;
             }
