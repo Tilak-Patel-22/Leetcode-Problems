@@ -102,4 +102,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0007-reverse-integer/) | Medium |
+| [0263-ugly-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0263-ugly-number/) | Easy |
 <!---LeetCode Topics End-->
