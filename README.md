@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0001-two-sum/) | Easy |
+| [0202-happy-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0009-palindrome-number/) | Easy |
 | [0070-climbing-stairs](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0070-climbing-stairs/) | Easy |
+| [0202-happy-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0263-ugly-number/) | Easy |
 ## Enumeration
@@ -120,4 +122,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0070-climbing-stairs/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
