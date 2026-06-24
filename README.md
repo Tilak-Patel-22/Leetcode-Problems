@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0263-ugly-number/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
