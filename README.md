@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0202-happy-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0202-happy-number/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 ## Union-Find
@@ -139,4 +140,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1200-minimum-absolute-difference/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
