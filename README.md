@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0263-ugly-number/) | Easy |
+| [0412-fizz-buzz](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0412-fizz-buzz](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0696-count-binary-substrings](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0696-count-binary-substrings/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -154,4 +156,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
