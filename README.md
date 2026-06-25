@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0202-happy-number/) | Easy |
+| [0696-count-binary-substrings](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0696-count-binary-substrings/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0696-count-binary-substrings](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0696-count-binary-substrings/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
