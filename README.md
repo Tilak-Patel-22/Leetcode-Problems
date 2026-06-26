@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0696-count-binary-substrings](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0696-count-binary-substrings/) | Easy |
