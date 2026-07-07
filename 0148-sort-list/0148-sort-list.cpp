@@ -10,20 +10,42 @@
  */
 class Solution {
 public:
+    ListNode* merge(ListNode* left, ListNode* right) {
+        ListNode dummy(0);
+        ListNode* temp = &dummy;
+
+        while (left && right) {
+            if (left->val < right->val) {
+                temp->next = left;
+                left = left->next;
+            } else {
+                temp->next = right;
+                right = right->next;
+            }
+            temp = temp->next;
+        }
+        if (left) {
+            temp->next = left;
+        }
+        if (right) {
+            temp->next = right;
+        }
+        return dummy.next;
+    }
     ListNode* sortList(ListNode* head) {
-         vector<int> v;
-         ListNode* temp = head;
-         while(temp){
-            v.push_back(temp->val);
-            temp=temp->next;
-         }
-         sort(v.begin(), v.end());
-         temp = head;
-         int i=0;
-         while(temp){
-            temp->val=v[i++];
-            temp=temp->next;
-         }
-         return head;
+        if (head == nullptr || head->next == nullptr) {
+            return head;
+        }
+        ListNode* slow = head;
+        ListNode* fast = head->next;
+        while (fast && fast->next) {
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        ListNode* right = slow->next;
+        slow->next = nullptr;
+        ListNode* left = sortList(head);
+        right = sortList(right);
+        return merge(left, right);
     }
 };
