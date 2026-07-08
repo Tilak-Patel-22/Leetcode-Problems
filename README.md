@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0001-two-sum/) | Easy |
+| [0084-largest-rectangle-in-histogram](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0204-count-primes](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0414-third-maximum-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Divide and Conquer
