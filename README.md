@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0451-sort-characters-by-frequency](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0148-sort-list/) | Medium |
 | [0414-third-maximum-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1200-minimum-absolute-difference/) | Easy |
 ## String
@@ -167,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0412-fizz-buzz/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0696-count-binary-substrings](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0696-count-binary-substrings/) | Easy |
 | [0796-rotate-string](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0796-rotate-string/) | Easy |
 ## Queue
@@ -177,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,4 +199,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0796-rotate-string/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
