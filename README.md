@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
