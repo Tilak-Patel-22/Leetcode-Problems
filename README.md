@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0101-symmetric-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -42,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -68,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0162-find-peak-element](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
