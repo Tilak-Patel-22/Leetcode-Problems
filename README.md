@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1539-kth-missing-positive-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -123,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
