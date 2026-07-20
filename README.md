@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
+| [0547-number-of-provinces](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Binary Tree
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -161,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Math
