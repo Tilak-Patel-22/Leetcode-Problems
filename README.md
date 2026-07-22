@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0449-serialize-and-deserialize-bst](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0547-number-of-provinces](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0994-rotting-oranges](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0860-lemonade-change](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0860-lemonade-change/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0994-rotting-oranges](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0994-rotting-oranges](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0994-rotting-oranges/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
