@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0099-recover-binary-search-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0101-symmetric-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0130-surrounded-regions](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0130-surrounded-regions](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0542-01-matrix](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0542-01-matrix/) | Medium |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0130-surrounded-regions](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0130-surrounded-regions/) | Medium |
 | [0162-find-peak-element](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0162-find-peak-element/) | Medium |
 | [0204-count-primes](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -172,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -260,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0130-surrounded-regions](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0130-surrounded-regions/) | Medium |
 | [0542-01-matrix](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0994-rotting-oranges/) | Medium |
 ## Design
