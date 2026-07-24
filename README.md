@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0120-triangle](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0120-triangle/) | Medium |
 | [0130-surrounded-regions](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0130-surrounded-regions/) | Medium |
 | [0162-find-peak-element](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0162-find-peak-element/) | Medium |
 | [0204-count-primes](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0204-count-primes/) | Medium |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0070-climbing-stairs/) | Easy |
+| [0120-triangle](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0120-triangle/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0542-01-matrix](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
