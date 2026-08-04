@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0125-valid-palindrome](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
