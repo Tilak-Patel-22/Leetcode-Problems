@@ -315,4 +315,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0052-n-queens-ii](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0052-n-queens-ii/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0052-n-queens-ii](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
