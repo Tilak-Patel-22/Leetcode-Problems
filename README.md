@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0699-falling-squares](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0699-falling-squares/) | Hard |
 | [0860-lemonade-change](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0860-lemonade-change/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0994-rotting-oranges](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0994-rotting-oranges/) | Medium |
@@ -333,4 +334,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0052-n-queens-ii](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0052-n-queens-ii/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0699-falling-squares](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0699-falling-squares/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0699-falling-squares](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0699-falling-squares/) | Hard |
 <!---LeetCode Topics End-->
