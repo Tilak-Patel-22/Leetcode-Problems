@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0699-falling-squares](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0699-falling-squares/) | Hard |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0860-lemonade-change](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0860-lemonade-change/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0994-rotting-oranges](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0994-rotting-oranges/) | Medium |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0542-01-matrix](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
