@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0815-bus-routes](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0815-bus-routes/) | Hard |
 | [0994-rotting-oranges](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0699-falling-squares](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0699-falling-squares/) | Hard |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
+| [0815-bus-routes](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0815-bus-routes/) | Hard |
 | [0860-lemonade-change](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0860-lemonade-change/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0994-rotting-oranges](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0994-rotting-oranges/) | Medium |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0815-bus-routes](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0815-bus-routes/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
