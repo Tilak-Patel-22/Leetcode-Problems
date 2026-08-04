@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0860-lemonade-change](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0860-lemonade-change/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0994-rotting-oranges](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0994-rotting-oranges/) | Medium |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0407-trapping-rain-water-ii](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Merge Sort
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -246,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0905-sort-array-by-parity](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1200-minimum-absolute-difference/) | Easy |
 ## String
@@ -283,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -308,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0860-lemonade-change](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0860-lemonade-change/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
