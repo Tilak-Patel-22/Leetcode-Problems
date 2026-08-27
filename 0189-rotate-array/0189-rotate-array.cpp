@@ -1,23 +1,19 @@
 class Solution {
 public:
-    void rever(vector<int>& nums, int start, int end){
-        while (start<end){
-            swap(nums[start], nums[end]);
-            start+=1;
-            end -= 1;
-        }
+void rev(vector<int>& nums, int start, int end){
+    while(start<=end){
+        int temp = nums[start];
+        nums[start] = nums[end];
+        nums[end] = temp;
+        start = start + 1;
+        end = end - 1; 
     }
-    
+}
     void rotate(vector<int>& nums, int k) {
-        int length = nums.size();
-
-        k = k % length;
-        if (k==0) return;
-
-        int someMid = nums.size()-k;
-
-        rever(nums, 0, someMid-1);
-        rever(nums, someMid, length-1);
-        rever(nums, 0, length-1);
+        int n = nums.size();
+        k = k%n;
+        rev(nums, 0, n - 1);
+        rev(nums, 0, k-1);
+        rev(nums, k, n - 1);
     }
 };
