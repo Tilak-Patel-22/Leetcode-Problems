@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0815-bus-routes](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0815-bus-routes/) | Hard |
 | [0860-lemonade-change](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0860-lemonade-change/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0696-count-binary-substrings](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0696-count-binary-substrings/) | Easy |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0905-sort-array-by-parity](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0905-sort-array-by-parity](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1200-minimum-absolute-difference/) | Easy |
 ## String
 | Problem Name | Difficulty |
