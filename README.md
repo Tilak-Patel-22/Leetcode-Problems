@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0542-01-matrix/) | Medium |
