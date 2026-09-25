@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0268-missing-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0449-serialize-and-deserialize-bst](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0268-missing-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0407-trapping-rain-water-ii](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0414-third-maximum-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0202-happy-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0202-happy-number/) | Easy |
+| [0268-missing-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -241,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0263-ugly-number/) | Easy |
+| [0268-missing-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
@@ -276,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0148-sort-list/) | Medium |
+| [0268-missing-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -381,4 +386,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
