@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0283-move-zeroes](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0407-trapping-rain-water-ii](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0414-third-maximum-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0202-happy-number/) | Easy |
+| [0283-move-zeroes](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0696-count-binary-substrings](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0696-count-binary-substrings/) | Easy |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0905-sort-array-by-parity](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
