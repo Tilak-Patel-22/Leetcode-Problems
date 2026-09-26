@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0048-rotate-image](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0412-fizz-buzz](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Prefix Sum
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0130-surrounded-regions/) | Medium |
