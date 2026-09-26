@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-unique-number-of-occurrences](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0905-sort-array-by-parity](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -318,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0412-fizz-buzz/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
