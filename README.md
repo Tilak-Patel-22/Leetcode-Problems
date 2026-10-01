@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0815-bus-routes](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0815-bus-routes/) | Hard |
 | [0860-lemonade-change](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0860-lemonade-change/) | Easy |
+| [0896-monotonic-array](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0896-monotonic-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0994-rotting-oranges/) | Medium |
