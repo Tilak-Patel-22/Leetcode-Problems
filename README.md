@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
+| [0443-string-compression](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0443-string-compression/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0696-count-binary-substrings](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0696-count-binary-substrings/) | Easy |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0412-fizz-buzz/) | Easy |
+| [0443-string-compression](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0443-string-compression/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0647-palindromic-substrings/) | Medium |
