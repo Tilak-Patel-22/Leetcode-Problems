@@ -417,4 +417,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0268-missing-number/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0595-big-countries](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->
