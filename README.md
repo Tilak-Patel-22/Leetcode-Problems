@@ -423,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0182-duplicate-emails](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0182-duplicate-emails/) | Easy |
 | [0584-find-customer-referee](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0595-big-countries/) | Easy |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1148-article-views-i](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1148-article-views-i/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1667-fix-names-in-a-table/) | Easy |
