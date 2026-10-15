@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/Tilak-Patel-22/Leetcode-Problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
